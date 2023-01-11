@@ -223,7 +223,7 @@ We may introduce arbitration at some point in the future.  Until then, we are lu
   - A free, fast way to show immediate gratitude towards an individual via github username or email address
 
 - via [Kudos](https://gitcoin.co/kudos)
-  - Showcases special skills and appreciation towards other Gitcoin members.
+  - Showcases special skills and appreciation towards other Gitcoin members..
 
 ### Tips
 
